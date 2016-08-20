@@ -1,0 +1,3 @@
+#!/bin/bash
+# a script to tail -f the apache error log
+tail -f /var/log/apache2/error.log

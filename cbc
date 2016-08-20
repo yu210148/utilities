@@ -1,0 +1,4 @@
+#!/bin/bash
+vlc http://playerservices.streamtheworld.com/pls/CBC_R1_TOR_H.pls
+#vlc http://playerservices.streamtheworld.com/pls/CBC_R1_TOR_L.pls
+

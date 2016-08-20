@@ -1,0 +1,3 @@
+#!/bin/bash
+rdesktop -g 85% -M -r disk:klucas=/home/klucas -k en-us -d PRESS 128.100.205.36
+
