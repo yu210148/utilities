@@ -3,7 +3,7 @@ a collection of various small utility scripts I've written for various Linux mac
 
 Unless otherwise specified they're released under the GPLv3 or later licence.
 
-*Usage:
+##Usage:
 I usually put them in /usr/local/bin so that they're in the path but they could go anywhere really. They can be run as needed or
 set to run as cron jobs as appropriate.
 
