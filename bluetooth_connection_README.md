@@ -6,8 +6,8 @@ pair the device to get the mac address of the device on the rpi
 
 then:
 
-```sudo bluetoothctl
-trust xx:xx:xx:xx:xx:xx (device's bluetooth mac)```
+```sudo bluetoothctl```
+```# trust xx:xx:xx:xx:xx:xx (device's bluetooth mac)```
 
 then try the connection on the device
 
