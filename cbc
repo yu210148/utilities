@@ -1,4 +1,8 @@
 #!/bin/bash
-vlc http://playerservices.streamtheworld.com/pls/CBC_R1_TOR_H.pls
+# 2016-08-27 cbc seems to have changed their url --KL                                        
+vlc http://cbc_r1_tor.akacast.akamaistream.net/7/632/451661/v1/rc.akacast.akamaistream.net/c\
+bc_r1_tor
+
+#vlc http://playerservices.streamtheworld.com/pls/CBC_R1_TOR_H.pls
 #vlc http://playerservices.streamtheworld.com/pls/CBC_R1_TOR_L.pls
 
